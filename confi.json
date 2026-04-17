@@ -1,17 +1,17 @@
 {
-  "Version": 8,
-  "ReleaseNotes": "Nueva Mejora",
-  "Url": "https://github.com",
-  "Servers": [
+  "version": 2,
+  "release_notes": "Servidor Restaurado",
+  "url": "https://google.com",
+  "servers": [
     {
-      "Name": "Servidor Premium 🚀",
-      "Hostname": "102.129.137.175",
-      "Port": "8080",
-      "User": "root",
-      "Pass": "token",
-      "Payload": "POST / HTTP/1.1[crlf]Host: dzcdn.net[crlf]Connection: Keep-Alive[crlf]Proxy-Connection: Keep-Alive[crlf][crlf]",
-      "Direct": false,
-      "SSL": false
+      "name": "Servidor Premium 🚀",
+      "host": "102.129.137.175",
+      "port": "8080",
+      "user": "root",
+      "pass": "token",
+      "payload": "POST / HTTP/1.1[crlf]Host: dzcdn.net[crlf]Connection: Keep-Alive[crlf]Proxy-Connection: Keep-Alive[crlf][crlf]",
+      "direct": false,
+      "ssl": false
     }
   ]
 }
